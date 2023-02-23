@@ -1,0 +1,20 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.6rem;
+
+}
+
+a {
+  color: crimson;
+  list-style: none;
+  margin-left: 1rem;
+  text-decoration: none;
+}
